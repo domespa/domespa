@@ -3,7 +3,7 @@
 🚀 <strong>About Me</strong>: <br/>
 Sviluppatore appassionato con focus sull'apprendimento e sviluppo di web <strong>app performanti e innovative</strong>. Mi dedico costantemente alla ricerca di nuove tecnologie e metodologie per creare esperienze digitali di qualità superiore. <br/> 
 <div></div>
-🔭 <strong>Attualmente lavoro su</strong>: Sviluppo di web App responsove<br/>
+🔭 <strong>Attualmente lavoro su</strong>: Sviluppo di web App responsive<br/>
 🌱 <strong>Sto imparando</strong>: Nuove tecnologie per il backend <strong>php e Laravel</strong><br/>
 💡 Mi interessa: Sviluppare strumenti utili e user-friendly<br/>
 <div><br/></div>
